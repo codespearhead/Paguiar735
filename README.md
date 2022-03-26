@@ -4,12 +4,16 @@
 <p align="center">
 
 <br>
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+JavaScript+enthusiast;I'm+a+future+Software+Engineer;I'm+Pedro+Aguiar+%3A%29" /></a>
+
+<a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+JavaScript+enthusiast;I'm+a+future+Software+Engineer;I'm+Pedro+Aguiar+%3A%29" />
+</a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-2797CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://paguiar.link/linkedin" />
+</a>
 
 </p>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2797CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://paguiar.link/linkedin)
 
 
 <br>
@@ -47,6 +51,7 @@
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![VSCode](https://img.shields.io/badge/VSCode-0060A0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](#)
 
+
 <br>
 
 
@@ -71,18 +76,17 @@
 </p>
 </details>
 
-​<br> 
 
-​#​  Built with and Licenses
-
-​<br> 
+<br>
 
 
-All of my projects will be distributed either under APACHEv2 or MIT, with a rundown of each dependency's license rightfully mentioned in the the project's README.md
+# :computer:  Built with and Licenses
 
-​| Project Name | License | 
-​| --- | --- | --- |
-​| Paguiar735 | [MIT](./LICENSES/Paguiar735) | 
-​| github-readme-activity-graph | [MIT](./LICENSES/github-readme-activity-graph) | 
-​
-​<br>
+All of my projects will be distributed either under APACHEv2 or MIT, with a rundown of each dependency's license rightfully mentioned in the project's README.md
+
+<br>
+
+| Project Name | License |
+| --- | --- |
+| Paguiar735 | [MIT](./LICENSES/Paguiar735) |
+| github-readme-activity-graph | [MIT](./LICENSES/github-readme-activity-graph) |
