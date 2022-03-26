@@ -70,3 +70,19 @@
 
 </p>
 </details>
+
+​<br> 
+
+​#​  Built with and Licenses
+
+​<br> 
+
+
+All of my projects will be distributed either under APACHEv2 or MIT, with a rundown of each dependency's license rightfully mentioned in the the project's README.md
+
+​| Project Name | License | 
+​| --- | --- | --- |
+​| Paguiar735 | [MIT](./LICENSES/Paguiar735) | 
+​| github-readme-activity-graph | [MIT](./LICENSES/github-readme-activity-graph) | 
+​
+​<br>
