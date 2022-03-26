@@ -1,5 +1,6 @@
 # :wave: Hello!
 
+
 <p align="center">
 
 <br>
@@ -7,8 +8,9 @@
 
 </p>
 
-- :walking: Android developer in the making
-- :mag_right: Interested in Android Development, UI/UX and Foreign Languages.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2797CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://paguiar.link/linkedin)
+
 
 <br>
 
@@ -16,10 +18,9 @@
 # :briefcase: My Skills
 
 * :alien: **Human Languages**
-    - (Brazilian) Portuguese: native
-    - (American) English: fluent
-    - (Metropolitan) French: dabbler
-    - (Latin American) Spanish: dabbler
+    - :brazil: Portuguese: native
+    - :us: English: fluent
+    - :fr: French: beginner
 
 * **Programming Languages**
 
@@ -65,7 +66,7 @@
 	<summary> :zap: Recent GitHub Activity </summary>
     <p align="center">
 
-<a href="#"><img alt="Pedro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="#"><img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" /></a>
 
 </p>
 </details>
