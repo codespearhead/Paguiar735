@@ -1,21 +1,24 @@
 # :wave: Hello!
 
+<br>
 
 <p align="center">
-
-<br>
 
 <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+enthusiast;I'm+a+Software+Engineer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
 </a>
 
+</p>
+
+<br>
+
+I'm currently drifting away from the JavaScript ecosystem in favor of native alternatives in both mobile development (Kotlin for Android and Swift for iOS) and cloud-based solutions with Go.
+
+<br>
+
 <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-2797CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://paguiar.link/linkedin" />
 </a>
-
-</p>
-
-I'm currently drifting away from the JavaScript ecosystem in favor of native alternatives in both mobile development (Kotlin for Android and Swift for iOS) and cloud-based solutions (Go).
 
 <br>
 
