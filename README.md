@@ -6,7 +6,7 @@
 <br>
 
 <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+JavaScript+enthusiast;I'm+a+future+Software+Engineer;I'm+Pedro+Aguiar+%3A%29" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+enthusiast;I'm+a+Software+Engineer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
 </a>
 
 <a href="#">
@@ -15,6 +15,7 @@
 
 </p>
 
+I'm currently drifting away from the JavaScript ecosystem in favor of native alternatives in both mobile development (Kotlin for Android and Swift for iOS) and cloud-based solutions (Go).
 
 <br>
 
@@ -35,8 +36,11 @@
 * **Operating Systems**
 
 [![Windows](https://img.shields.io/badge/Windows-3B50D9?style=for-the-badge&logo=Windows&logoColor=black)](#)
-[![Arch](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
 [![Linux Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-E6531E?style=for-the-badge&logo=Ubuntu&logoColor=black)](#)
+[![Fedora Linux](https://img.shields.io/badge/RHEL%20/%20Fedora%20Linux-e8221e?style=for-the-badge&logo=Fedora&logoColor=black)](#)
+
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+
 
 * **Design Tools**
 
@@ -88,5 +92,6 @@ All of my projects will be distributed either under APACHEv2 or MIT, with a rund
 
 | Project Name | License |
 | --- | --- |
-| Paguiar735 | [MIT](./LICENSES/Paguiar735) |
-| github-readme-activity-graph | [MIT](./LICENSES/github-readme-activity-graph) |
+| [Paguiar735](https://github.com/Paguiar735/Paguiar735) | [MIT](./LICENSE/Paguiar735) |
+| [ShieldsIO](https://github.com/badges/shields) | [CC0](./LICENSE/ShieldsIO) |
+| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | [MIT](./LICENSE/github-readme-activity-graph) |
