@@ -1,33 +1,47 @@
 # :wave: Hello!
 
+
 <br>
+
 
 <p align="center">
 
 <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+enthusiast;I'm+a+Software+Engineer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
+
+<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+enthusiast;I'm+a+Software+Engineer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
 </a>
 
 </p>
 
-<br>
 
-I'm currently drifting away from the JavaScript ecosystem in favor of native alternatives in both mobile development (Kotlin for Android and Swift for iOS) and cloud-based solutions with Go.
+Constant learner interested in Artificial Intelligence and Cloud Computing, currently shying away from the JavaScript ecosystem to pursue qualifications in Machine Learning with Python and in cloud-native solutions with Go.
 
-<br>
+➤ Inspirations: [Nana Janashia](https://www.techworld-with-nana.com/about-techworld-with-nana) from [Techworld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) and [Elliot Forbes](https://github.com/elliotforbes) from [TutorialEdge](https://www.youtube.com/c/Tutorialedge).
 
-<a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-2797CF?style=for-the-badge&logo=linkedin&logoColor=black)](https://paguiar.link/linkedin" />
+
+<a href="https://paguiar.link/linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-2797CF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 
 <br>
 
 
 # :briefcase: My Skills
 
+* **My Top 3 Certificates**
+
+<div style="display:flex;justify-content:flex-end">
+
+<div style="padding:5px">
+<a href="https://www.credly.com/badges/23e970b8-6366-4d43-a140-fa26e7b779ab/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations Badge" width="200px"></a>
+</div>
+
+</div>
+
 * :alien: **Human Languages**
     - :brazil: Portuguese: native
-    - :us: English: fluent
+    - :us: English: professional working proficiency
     - :fr: French: beginner
 
 * **Programming Languages**
@@ -57,9 +71,6 @@ I'm currently drifting away from the JavaScript ecosystem in favor of native alt
 [![GitHub](https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![VSCode](https://img.shields.io/badge/VSCode-0060A0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](#)
-
-
-<br>
 
 
 # :computer: GitHub Statistics
