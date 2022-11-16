@@ -1,22 +1,14 @@
 # :wave: Hello!
 
-
 <br>
-
-
 <p align="center">
-
-<a href="#">
-
-<img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+enthusiast;I'm+a+Software+Engineer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
-</a>
-
+    <a href="#">
+        <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+Specialist;I'm+a+Mobile+Developer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
+    </a>
 </p>
 
 
-Constant learner interested in Artificial Intelligence and Cloud Computing, currently shying away from the JavaScript ecosystem to pursue qualifications in Machine Learning with Python and in cloud-native solutions with Go.
-
-➤ Inspirations: [Nana Janashia](https://www.techworld-with-nana.com/about-techworld-with-nana) from [Techworld with Nana](https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA) and [Elliot Forbes](https://github.com/elliotforbes) from [TutorialEdge](https://www.youtube.com/c/Tutorialedge).
+AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Junior Native iOS Developer | Successfully minimized IT operating costs by 45% in 2021 and 80% in 2022 using AWS and in-house solutions
 
 
 <a href="https://paguiar.link/linkedin">
@@ -34,7 +26,8 @@ Constant learner interested in Artificial Intelligence and Cloud Computing, curr
 <div style="display:flex;justify-content:flex-end">
 
 <div style="padding:5px">
-<a href="https://www.credly.com/badges/23e970b8-6366-4d43-a140-fa26e7b779ab/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations Badge" width="200px"></a>
+    <a href="https://www.credly.com/badges/23e970b8-6366-4d43-a140-fa26e7b779ab/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations Badge" width="200px">
+    </a>
 </div>
 
 </div>
@@ -76,36 +69,23 @@ Constant learner interested in Artificial Intelligence and Cloud Computing, curr
 # :computer: GitHub Statistics
 
 <details>
-	<summary> :muscle: My GitHub Profile</summary>
-	<p align="center">
+    <summary> :muscle: My GitHub Profile</summary>
+    <p align="center">
 
-<a href="#"><img alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<a href="#"><img alt="Pedro's most used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paguiar735&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/></a>
+        <a href="#">
+	    <img alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+	</a>
+        <a href="#">
+	    <img alt="Pedro's most used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paguiar735&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	</a>
 
-</p>   
+    </p>   
 </details>
 
 <details>
-	<summary> :zap: Recent GitHub Activity </summary>
+    <summary> :zap: Recent GitHub Activity </summary>
     <p align="center">
-
-<a href="#"><img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" /></a>
-
-</p>
+        <a href="#"><img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" />
+        </a>
+    </p>
 </details>
-
-
-<br>
-
-
-# :computer:  Built with and Licenses
-
-All of my projects will be distributed either under APACHEv2 or MIT, with a rundown of each dependency's license rightfully mentioned in the project's README.md
-
-<br>
-
-| Project Name | License |
-| --- | --- |
-| [Paguiar735](https://github.com/Paguiar735/Paguiar735) | [MIT](./LICENSE/Paguiar735) |
-| [ShieldsIO](https://github.com/badges/shields) | [CC0](./LICENSE/ShieldsIO) |
-| [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | [MIT](./LICENSE/github-readme-activity-graph) |
