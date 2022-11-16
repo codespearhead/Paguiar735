@@ -72,24 +72,22 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 
 <details>
     <summary> :muscle: My GitHub Profile</summary>
+    <p align="center">
+<a href="#">
+    <img alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+</a>
 
-
-
-	    <img alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-
-
-	    <img alt="Pedro's most used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paguiar735&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
-
-
- 
+<a href="#">
+    <img alt="Pedro's most used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paguiar735&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
+</a>
+    </p>
 </details>
 
 <details>
-    <summary> :zap: Recent GitHub Activity</summary>
+	<summary> :zap: Recent GitHub Activity</summary>
     <p align="center">
 
-        <a href="#"><img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" />
-        </a>
+<a href="#"><img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" /></a>
 
-    </p>
+</p>
 </details>
