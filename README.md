@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-    <a href="#">
+    <a href="#" onclick="javascript:void(0)">
         <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2336BCF7&size=20&center=true&lines=I'm+a+Cloud+Computing+Specialist;I'm+a+Mobile+Developer+in+the+making;I'm+Pedro+Aguiar+%3A%29" />
     </a>
 </p>
@@ -41,53 +41,86 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 
 * **Programming Languages**
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![C](https://img.shields.io/badge/C-838382?style=for-the-badge&logo=C&logoColor=white)](#)
+<a href="#" onclick="javascript:void(0)">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="" src="https://img.shields.io/badge/C-838382?style=for-the-badge&logo=C&logoColor=white"/>
+</a>
+
 
 * **Operating Systems**
 
-[![Windows](https://img.shields.io/badge/Windows-3B50D9?style=for-the-badge&logo=Windows&logoColor=black)](#)
-[![Linux Ubuntu](https://img.shields.io/badge/Ubuntu%20Linux-E6531E?style=for-the-badge&logo=Ubuntu&logoColor=black)](#)
-[![Fedora Linux](https://img.shields.io/badge/RHEL%20/%20Fedora%20Linux-e8221e?style=for-the-badge&logo=Fedora&logoColor=black)](#)
-
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white)](#)
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-3B50D9?style=for-the-badge&logo=Windows&logoColor=black"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-E6531E?style=for-the-badge&logo=Ubuntu&logoColor=black"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="RHEL / Fedora Linux" src="https://img.shields.io/badge/RHEL%20/%20Fedora%20Linux-e8221e?style=for-the-badge&logo=Fedora&logoColor=black"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+</a>
 
 
 * **Design Tools**
 
-[![Figma](https://img.shields.io/badge/Figma-731fde?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![Inkscape](https://img.shields.io/badge/Inkscape-191f2e?style=for-the-badge&logo=Inkscape&logoColor=white)](#)
-[![GIMP](https://img.shields.io/badge/GIMP-454442?style=for-the-badge&logo=Gimp&logoColor=white)](#)
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-731fde?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-191f2e?style=for-the-badge&logo=Inkscape&logoColor=white"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="GIMP" src="https://img.shields.io/badge/GIMP-454442?style=for-the-badge&logo=Gimp&logoColor=white"/>
+</a>
+
 
 * **Other Tools**
 
-[![Git](https://img.shields.io/badge/Git-E44C30.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![VSCode](https://img.shields.io/badge/VSCode-0060A0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](#)
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Git" src="https://img.shields.io/badge/Git-E44C30.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0060A0?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+</a>
 
 
 # :computer: GitHub Statistics
 
 <details>
     <summary> :muscle: My GitHub Profile</summary>
-    <p align="center">
-<a href="#">
+<p align="center">
+
+<a href="#" onclick="javascript:void(0)">
     <img alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 </a>
 
-<a href="#">
+<a href="#" onclick="javascript:void(0)">
     <img alt="Pedro's most used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paguiar735&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
 </a>
-    </p>
+
+</p>
 </details>
 
 <details>
 	<summary> :zap: Recent GitHub Activity</summary>
-    <p align="center">
+<p align="center">
 
-<a href="#"><img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" />
+</a>
 
 </p>
 </details>
