@@ -21,7 +21,7 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 
 # :briefcase: My Skills
 
-* **My Top 3 Certificates**
+* **My Top 2 Certificates**
 
 <div style="display:flex;justify-content:flex-end">
 
@@ -35,8 +35,8 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 </div>
 
 * :alien: **Human Languages**
-    - :brazil: Portuguese: native
-    - :us: English: professional working proficiency
+    - :brazil: Portuguese: native speaker
+    - :us: English: full professional working proficiency
     - :fr: French: beginner
 
 * **Programming Languages**
@@ -47,21 +47,18 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 <a href="#" onclick="javascript:void(0)">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-<a href="#" onclick="javascript:void(0)">
-    <img alt="" src="https://img.shields.io/badge/C-838382?style=for-the-badge&logo=C&logoColor=white"/>
-</a>
 
 
 * **Operating Systems**
 
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-3B50D9?style=for-the-badge&logo=Windows&logoColor=black"/>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-3B50D9?style=for-the-badge&logo=Windows&logoColor=white"/>
 </a>
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-E6531E?style=for-the-badge&logo=Ubuntu&logoColor=black"/>
+    <img alt="Fedora Linux" src="https://img.shields.io/badge/RHEL%20/%20Fedora%20Linux-e8221e?style=for-the-badge&logo=Fedora&logoColor=white"/>
 </a>
 <a href="#" onclick="javascript:void(0)">
-    <img alt="RHEL / Fedora Linux" src="https://img.shields.io/badge/RHEL%20/%20Fedora%20Linux-e8221e?style=for-the-badge&logo=Fedora&logoColor=black"/>
+    <img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu%20Linux-E6531E?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
 </a>
 <a href="#" onclick="javascript:void(0)">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-0B2541?style=for-the-badge&logo=arch-linux&logoColor=white"/>
@@ -90,10 +87,7 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238"/>
 </a>
 <a href="#" onclick="javascript:void(0)">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</a>
-<a href="#" onclick="javascript:void(0)">
-    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0060A0?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+    <img alt="Vim" src="https://img.shields.io/badge/VIM-%23323330.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 </a>
 
 
