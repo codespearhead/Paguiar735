@@ -113,14 +113,3 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 
 </p>
 </details>
-
-<details>
-	<summary> :zap: Recent GitHub Activity</summary>
-<p align="center">
-
-<a href="#" onclick="javascript:void(0)">
-    <img alt="Pedro Aguiar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Paguiar735&custom_title=Pedro+Aguiar's%20Contribution%20Graph&theme=react-dark" />
-</a>
-
-</p>
-</details>
