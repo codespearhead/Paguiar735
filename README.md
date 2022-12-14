@@ -21,7 +21,7 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 
 # :briefcase: My Skills
 
-* **My Top 2 Certificates**
+* **My Top Certificates**
 
 <div style="display:flex;justify-content:flex-end">
 
