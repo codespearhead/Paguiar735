@@ -79,7 +79,7 @@ AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Ju
 
 <br>
 
-- **Other Tools**
+- **Other Technologies**
 
 <a href="#" onclick="javascript:void(0)">
     <img alt="Git" src="https://img.shields.io/badge/Git-E44C30.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410"/>
