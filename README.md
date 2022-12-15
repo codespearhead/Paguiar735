@@ -4,8 +4,9 @@
     </a>
 </p>
 
-<p>
-AWS Cloud Computing Specialist | Aspiring Junior Native Android Developer and Junior Native iOS Developer | Successfully minimized IT operating costs by 45% in 2021 and 80% in 2022 using AWS and in-house solutions
+
+<p align="center">
+    <i>Successfully minimized IT operating costs by 45% in 2021 and 80% in 2022 using AWS and in-house solutions</i>
 </p>
 
 <br>
