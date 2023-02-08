@@ -18,6 +18,8 @@
 </p>
 
 <br>
+<br>
+
 
 # :briefcase: My Skills
 
@@ -48,6 +50,7 @@
 </a>
 
 <br>
+<br>
 
 - **Operating Systems**
 
@@ -65,6 +68,7 @@
 </a>
 
 <br>
+<br>
 
 - **Design Tools**
 
@@ -79,12 +83,14 @@
 </a>
 
 <br>
+<br>
 
 - **Other Technologies**
 
 <a href="#" onclick="javascript:void(0)">
     <img alt="Git" src="https://img.shields.io/badge/Git-E44C30.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410"/>
 </a>
+
 <a href="#" onclick="javascript:void(0)">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238"/>
 </a>
@@ -94,6 +100,10 @@
 <a href="#" onclick="javascript:void(0)">
     <img alt="Vim" src="https://img.shields.io/badge/VIM-%23323330.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 </a>
+
+<br>
+<br>
+
 
 # :computer: GitHub Statistics
 
