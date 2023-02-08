@@ -97,9 +97,6 @@
 
 # :computer: GitHub Statistics
 
-<details>
-    <summary> :muscle: My GitHub Profile</summary>
-
 <br>
 
 <p align="center">
@@ -113,4 +110,3 @@
 </a>
 
 </p>
-</details>
