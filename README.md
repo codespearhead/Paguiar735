@@ -116,6 +116,6 @@
 </a>
 
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Pedro's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paguiar735&theme=algolia&layout=compact&langs_count=10" height="192px"/>
+    <img alt="Pedro's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paguiar735&theme=algolia&layout=compact&langs_count=10&hide=jupyter%20notebook" height="192px"/>
 
 </p>
