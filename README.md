@@ -102,11 +102,10 @@
 <p align="center">
 
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Pedro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="Pedro's Github Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 </a>
 
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Pedro's most used Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paguiar735&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
-</a>
+    <img alt="Pedro's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paguiar735&theme=algolia&layout=compact&langs_count=10" height="192px"/>
 
 </p>
