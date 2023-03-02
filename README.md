@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#" onclick="javascript:void(0)">
-        <img src="https://readme-typing-svg.herokuapp.com?center=true&size=20&duration=2700&pause=1300&font=IBM+Plex+Sans&color=2336BCF7&lines=I'm+a+junior+Ruby+on+Rails+Developer;I'm+an+AWS-trained+Cloud+Practitioner;I'm+Pedro+Aguiar+%3A%29" />
+        <img src="https://readme-typing-svg.herokuapp.com?center=true&size=20&duration=2700&pause=1300&font=IBM+Plex+Sans&color=2336BCF7&lines=I'm+an+ASP.NET+Core+Developer;I'm+an+AWS-trained+Cloud+Practitioner;I'm+Pedro+Aguiar+%3A%29" />
     </a>
 </p>
 
