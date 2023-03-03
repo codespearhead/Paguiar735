@@ -90,15 +90,17 @@
 <a href="#" onclick="javascript:void(0)">
     <img alt="Git" src="https://img.shields.io/badge/Git-E44C30.svg?&style=for-the-badge&logo=git&logoColor=white&Color=c95410"/>
 </a>
-
 <a href="#" onclick="javascript:void(0)">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238"/>
+    <img alt="Docker" src="https://img.shields.io/badge/DOCKER-3776AB.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
 <a href="#" onclick="javascript:void(0)">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-E6531E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </a>
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Vim" src="https://img.shields.io/badge/VIM-%23323330.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=283238"/>
+</a>
+<a href="#" onclick="javascript:void(0)">
+    <img alt="Vim" src="https://img.shields.io/badge/VIM-03310e.svg?style=for-the-badge&logo=vim&logoColor=white"/>
 </a>
 
 <br>
