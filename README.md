@@ -23,7 +23,7 @@
 
 # :briefcase: My Skills
 
-- **My Top Certificates**
+- **My Top Qualifications**
 
 <div>
     <a href="https://www.credly.com/badges/23e970b8-6366-4d43-a140-fa26e7b779ab/public_url"><img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations Badge" width="200px">
