@@ -1,18 +1,18 @@
 <p align="center">
     <a href="#" onclick="javascript:void(0)">
-        <img src="https://readme-typing-svg.herokuapp.com?center=true&size=20&duration=2700&pause=1300&font=IBM+Plex+Sans&color=2336BCF7&lines=I'm+an+ASP.NET+Core+Developer;I'm+an+AWS-trained+Cloud+Practitioner;I'm+Pedro+Aguiar+%3A%29" />
+        <img src="https://readme-typing-svg.herokuapp.com?center=true&size=20&duration=2700&pause=1300&font=IBM+Plex+Sans&color=2336BCF7&lines=I'm+a+Web+Developer;I'm+an+AWS-trained+Cloud+Practitioner;I'm+Pedro+Aguiar+%3A%29" />
     </a>
 </p>
 
 
 <p align="center">
-    <i>Successfully minimized IT operating costs by 45% in 2021 and 80% in 2022 using AWS and in-house solutions</i>
+    <i>I help companies cut up to 80% in costs by using AWS and by developing in-house software solutions</i>
 </p>
 
 <br>
 
 <p align="center">
-    <a href="https://paguiar.link/linkedin">
+    <a href="https://www.linkedin.com/in/codespearhead/">
         <img src="https://img.shields.io/badge/LinkedIn-2387ba?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
@@ -114,10 +114,10 @@
 <p align="center">
 
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Pedro's Github Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=Paguiar735&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+    <img alt="Pedro's Github Profile Statistics" src="https://github-readme-stats.vercel.app/api?username=codespearhead&show_icons=true&count_private=true&theme=algolia" height="192px"/>
 </a>
 
 <a href="#" onclick="javascript:void(0)">
-    <img alt="Pedro's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paguiar735&theme=algolia&layout=compact&langs_count=6&hide=jupyter%20notebook" height="192px"/>
+    <img alt="Pedro's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codespearhead&theme=algolia&layout=compact&langs_count=6&hide=jupyter%20notebook" height="192px"/>
 
 </p>
