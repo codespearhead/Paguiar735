@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    <i>I help companies cut up to 80% in costs by using AWS and by developing in-house software solutions</i>
+    <i>I help companies cut down on up to 80% in costs by using AWS and by developing software solutions</i>
 </p>
 
 <br>
