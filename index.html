@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 	<meta charset="utf-8" />
@@ -11,19 +11,21 @@
 	html,
 	body {
 		height: 100%;
+		overflow: hidden;
 		background-color: black;
 		text-align: center;
 	}
 
 	#body-container {
 		height: 100%;
-		padding: 0;
 		margin: 0;
+		padding: 1em;
 		display: -webkit-box;
 		display: -moz-box;
 		display: -ms-flexbox;
 		display: -webkit-flex;
 		display: flex;
+		row-gap: 2em;
 		align-items: center;
 		justify-content: center;
 		flex-direction: column;
@@ -31,13 +33,11 @@
 		font-family: "Open Sans", Arial, sans-serif;
 	}
 
-	#body-container> :not(:last-child) {
-		margin: 2rem;
-	}
-
-	#title {
-		font-size: 2rem;
-		line-height: 2.5rem;
+	h1 {
+		font-size: 2em;
+		font-weight: normal;
+		margin: 0;
+		padding: 0;
 	}
 
 	#social-network-container {
@@ -73,59 +73,13 @@
 		color: #fff;
 		box-shadow: 0 0 1rem #fff;
 	}
-
-	#countdown {
-		display: flex;
-		align-items: center;
-		justify-content: space-around;
-		flex-wrap: wrap;
-		gap: 2rem;
-	}
-
-	#countdown>div {
-		font-size: 0.75rem;
-		text-transform: uppercase;
-		display: flex;
-		align-items: center;
-		flex-direction: column;
-	}
-
-	#countdown>div>span {
-		font-size: 0.75rem;
-		text-transform: uppercase;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		flex-direction: column;
-		font-size: 2.5rem;
-	}
-
-	.emoji {
-		display: none;
-		padding: 1rem;
-	}
-
-	.emoji span {
-		font-size: 4rem;
-		padding: 0 0.5rem;
-	}
 </style>
 
 <body>
 	<div id="body-container">
-		<p id="title">A portifolio is on the way!</p>
-		<div id="countdown-container">
-			<div id="countdown">
-				<div><span id="days"></span>days</div>
-				<div><span id="hours"></span>Hours</div>
-				<div><span id="minutes"></span>Minutes</div>
-				<div><span id="seconds"></span>Seconds</div>
-			</div>
-			<div id="countdown-content" class="emoji">
-				<span>👀</span>
-			</div>
-		</div>
-		<p>In the meantime, check out my <a href="https://link.codespearhead.com/resume">resume</a></p>
+		<h1>A portifolio is on the way!</h1>
+		<p>In the meantime, check out my <a aria-label="Click to open my Resume on this page"
+				href="https://link.codespearhead.com/resume">resume</a></p>
 		<div id="social-network-container">
 			<a aria-label="Click to open my Github Profile on this page" class="social-network-items"
 				href="https://github.com/codespearhead">
@@ -153,50 +107,6 @@
 			</a>
 		</div>
 	</div>
-	<script>
-		// Source: https://codepen.io/AllThingsSmitty/pen/JJavZN
-		(function () {
-			const second = 1000,
-				minute = second * 60,
-				hour = minute * 60,
-				day = hour * 24;
-			let today = new Date(),
-				dd = String(today.getDate()).padStart(2, "0"),
-				mm = String(today.getMonth() + 1).padStart(2, "0"),
-				yyyy = today.getFullYear(),
-				nextYear = yyyy + 1,
-				dayMonth = "05/31/",
-				birthday = dayMonth + yyyy;
-			today = mm + "/" + dd + "/" + yyyy;
-			if (today > birthday) {
-				birthday = dayMonth + nextYear;
-			}
-			const countDown = new Date(birthday).getTime(),
-				x = setInterval(function () {
-					const now = new Date().getTime(),
-						distance = countDown - now;
-					(document.getElementById("days").innerText = Math.floor(
-						distance / day
-					)),
-						(document.getElementById("hours").innerText = Math.floor(
-							(distance % day) / hour
-						)),
-						(document.getElementById("minutes").innerText = Math.floor(
-							(distance % hour) / minute
-						)),
-						(document.getElementById("seconds").innerText = Math.floor(
-							(distance % minute) / second
-						));
-					//do something later when date is reached
-					if (distance < 0) {
-						document.getElementById("countdown").style.display = "none";
-						document.getElementById("countdown-content").style.display =
-							"block";
-						clearInterval(x);
-					}
-				}, 0);
-		})();
-	</script>
 </body>
 
 </html>
