@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="210mm" height="210mm" viewBox="0 0 210 209.99999" version="1.1" id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)" sodipodi:docname="CodeSpearhead - Logo [SVG].svg"
+   inkscape:export-filename="logo.jpg" inkscape:export-xdpi="60.476189" inkscape:export-ydpi="60.476189"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <sodipodi:namedview id="namedview7" pagecolor="#505050" bordercolor="#eeeeee" borderopacity="1"
+      inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#505050"
+      inkscape:document-units="mm" showgrid="false" showguides="true" inkscape:zoom="0.5" inkscape:cx="323"
+      inkscape:cy="346" inkscape:window-width="1366" inkscape:window-height="740" inkscape:window-x="0"
+      inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg5">
+      <inkscape:grid type="xygrid" id="grid2662" originx="5.000004" originy="5.0000003" />
+      <sodipodi:guide position="105,105" orientation="0,1" id="guide2779" inkscape:locked="false" inkscape:label=""
+         inkscape:color="rgb(0,134,229)" />
+      <sodipodi:guide position="0,105" orientation="0,1" id="guide4413" inkscape:locked="false" inkscape:label=""
+         inkscape:color="rgb(0,134,229)" />
+      <sodipodi:guide position="72.440987,105" orientation="1,0" id="guide606" inkscape:locked="false" />
+      <sodipodi:guide position="122.51287,54.992551" orientation="0,-1" id="guide680" inkscape:locked="false" />
+   </sodipodi:namedview>
+   <defs id="defs2">
+      <inkscape:path-effect effect="powermask" id="path-effect271" is_visible="true" lpeversion="1"
+         uri="#mask-powermask-path-effect271" invert="false" hide_mask="false" background="true"
+         background_color="#ffffffff" />
+      <inkscape:path-effect effect="powermask" id="path-effect4780" is_visible="true" lpeversion="1"
+         uri="#mask-powermask-path-effect4780" invert="false" hide_mask="false" background="true"
+         background_color="#ffffffff" />
+      <inkscape:path-effect effect="powermask" id="path-effect4421" is_visible="true" lpeversion="1"
+         uri="#mask-powermask-path-effect4421" invert="false" hide_mask="false" background="false"
+         background_color="#ffffffff" />
+      <inkscape:path-effect effect="powermask" id="path-effect4138" is_visible="true" lpeversion="1"
+         uri="#mask-powermask-path-effect4138" invert="false" hide_mask="false" background="false"
+         background_color="#ffffffff" />
+      <filter id="mask-powermask-path-effect3829_inverse" inkscape:label="filtermask-powermask-path-effect3829"
+         style="color-interpolation-filters:sRGB" height="100" width="100" x="-50" y="-50">
+         <feColorMatrix id="mask-powermask-path-effect3829_primitive1" values="1" type="saturate"
+            result="fbSourceGraphic" />
+         <feColorMatrix id="mask-powermask-path-effect3829_primitive2"
+            values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " in="fbSourceGraphic" />
+      </filter>
+      <filter id="mask-powermask-path-effect4745_inverse" inkscape:label="filtermask-powermask-path-effect4745"
+         style="color-interpolation-filters:sRGB" height="100" width="100" x="-50" y="-50">
+         <feColorMatrix id="mask-powermask-path-effect4745_primitive1" values="1" type="saturate"
+            result="fbSourceGraphic" />
+         <feColorMatrix id="mask-powermask-path-effect4745_primitive2"
+            values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " in="fbSourceGraphic" />
+      </filter>
+      <filter id="mask-powermask-path-effect4759_inverse" inkscape:label="filtermask-powermask-path-effect4759"
+         style="color-interpolation-filters:sRGB" height="100" width="100" x="-50" y="-50">
+         <feColorMatrix id="mask-powermask-path-effect4759_primitive1" values="1" type="saturate"
+            result="fbSourceGraphic" />
+         <feColorMatrix id="mask-powermask-path-effect4759_primitive2"
+            values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " in="fbSourceGraphic" />
+      </filter>
+      <mask maskUnits="userSpaceOnUse" id="mask-powermask-path-effect271">
+         <path id="mask-powermask-path-effect271_box" style="fill:#ffffff;fill-opacity:1"
+            d="M 63.935379,-18.677848 H 160.09886 V 77.486141 H 63.935379 Z" />
+         <rect style="fill:#000000;stroke:none;stroke-width:164.597;stroke-dasharray:none;stroke-opacity:1" id="rect269"
+            width="83.16745" height="210" x="-8.1674528" y="-5" transform="rotate(-45)"
+            d="M -8.1674528,-5 H 74.999997 V 205 H -8.1674528 Z" />
+      </mask>
+      <filter id="mask-powermask-path-effect271_inverse" inkscape:label="filtermask-powermask-path-effect271"
+         style="color-interpolation-filters:sRGB" height="100" width="100" x="-50" y="-50">
+         <feColorMatrix id="mask-powermask-path-effect271_primitive1" values="1" type="saturate"
+            result="fbSourceGraphic" />
+         <feColorMatrix id="mask-powermask-path-effect271_primitive2"
+            values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " in="fbSourceGraphic" />
+      </filter>
+   </defs>
+   <circle style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+      id="path473-4" cx="105" cy="105" r="105" inkscape:label="circle_1" />
+   <circle style="display:inline;fill:#000000;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+      id="path473" cx="105" cy="105" r="100" inkscape:label="circle_2" />
+   <circle style="display:none;fill:#1a1a1a;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+      id="path473-9" cx="105" cy="105" r="80" inkscape:label="circle_3" />
+   <path id="rect301" mask="url(#mask-powermask-path-effect271)"
+      style="display:inline;fill:none;stroke:#ffffff;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+      inkscape:label="arrow"
+      d="M 74.935379,-7.6774334 V 32.508628 l 33.977051,33.977056 40.18643,3.66e-4 V -7.6777988 Z"
+      transform="rotate(45,-7.3149165,-0.58904498)" inkscape:path-effect="#path-effect271"
+      inkscape:original-d="M 74.935379,-7.6774334 V 32.508628 l 33.977051,33.977056 40.18643,3.66e-4 V -7.6777988 Z" />
+   <rect style="display:inline;fill:#ffffff;stroke:none;stroke-width:19.48;stroke-dasharray:none;stroke-opacity:1"
+      id="rect3928-3-9" width="45" height="20" x="122.441" y="135.01122" inkscape:label="stroke_2" />
+   <rect style="display:inline;fill:#ffffff;stroke:none;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+      id="rect3928-3" width="45" height="20" x="27.44099" y="95" inkscape:label="stroke_1" />
+</svg>
